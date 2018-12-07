@@ -1,5 +1,4 @@
 # Phi Tran
 
-## Preview
-
-[![Preview](https://phitranpt.github.io)](https://phitranpt.github.io)
+## Welcome To Phi's Personal Website
+Visit me on https://phitranpt.github.io/
